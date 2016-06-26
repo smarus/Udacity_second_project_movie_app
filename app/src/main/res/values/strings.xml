@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Udacity_Second_Project</string>
+    <string name="action_settings">Settings</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="popular">Popular</string>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>
